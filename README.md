@@ -1,1 +1,1 @@
-# A maze game made in assembly language and stimulated in emu8086. 
+# A maze solving game inspired by Pac-man created in assembly language and stimulated in emu8086.
